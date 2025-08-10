@@ -35,8 +35,8 @@ tail -f /var/log/suricata/fast.log
 
 ---
 
-## 4️⃣ Edit Wazuh Manager Configuration
-On the **Wazuh Manager** server (not the agent), open the configuration file:
+## 4️⃣ Edit Wazuh Agent Configuration
+On the **Wazuh Agent** server (not the manager), open the configuration file:
 ```bash
 sudo nano /var/ossec/etc/ossec.conf
 ```

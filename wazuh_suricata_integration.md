@@ -55,7 +55,7 @@ Inside `<ossec_config>`, add the following blocks:
 </localfile>
 ```
 
-Save and exit.
+Save and exit..
 
 ---
 

@@ -59,7 +59,7 @@ Save and exit..
 
 ---
 
-## 5️⃣ Restart Wazuh Manager
+## 5️⃣ Restart Wazuh Manager.
 ```bash
 sudo systemctl restart wazuh-manager
 sudo systemctl status wazuh-manager
